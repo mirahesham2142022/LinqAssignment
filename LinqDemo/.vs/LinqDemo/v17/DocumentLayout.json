@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|c:\\users\\xpristo\\source\\repos\\linqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|c:\\users\\xpristo\\source\\repos\\linqdemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|c:\\users\\xpristo\\source\\repos\\linqdemo\\customers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|solutionrelative:customers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|c:\\users\\xpristo\\source\\repos\\linqdemo\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|solutionrelative:listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|c:\\users\\xpristo\\source\\repos\\linqdemo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|c:\\users\\xpristo\\source\\repos\\linqdemo\\caseinsensitivecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BEB6-0B08-4A08-8855-3D233AD581F0}|LinqDemo.csproj|solutionrelative:caseinsensitivecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customers.xml",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\Customers.xml",
+              "RelativeDocumentMoniker": "Customers.xml",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\Customers.xml",
+              "RelativeToolTip": "Customers.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-03T23:43:11.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:27:22.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaseInsensitiveComparer.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\CaseInsensitiveComparer.cs",
+              "RelativeDocumentMoniker": "CaseInsensitiveComparer.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\CaseInsensitiveComparer.cs",
+              "RelativeToolTip": "CaseInsensitiveComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:42:10.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAEwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:36:37.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:36:32.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "ListGenerator.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\LinqDemo\\ListGenerator.cs",
+              "RelativeToolTip": "ListGenerator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:36:34.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
